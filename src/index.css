@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to bottom, #e0f7fa, #ffffff);
+  scroll-behavior: smooth;
+  color: #333;
+}
+
+section {
+  padding: 80px 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
